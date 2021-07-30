@@ -1,0 +1,10 @@
+#hides .db, .log and .feature.cs types of files
+*.db
+*.log
+*.feature.cs
+
+#hides folders with specified names
+target/
+bin/
+obj/
+.vs/
